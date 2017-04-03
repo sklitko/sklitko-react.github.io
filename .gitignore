@@ -1,2 +1,5 @@
 .idea
 node_modules
+google-maps-react
+react-google-maps
+maps/node_modules
